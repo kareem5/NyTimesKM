@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='NyTimesKMTests.xctest' tests='3' failures='0'>
+  <testsuite name='NyTimesKMTests.ArticlesListViewModelTests' tests='1' failures='0'>
+    <testcase classname='NyTimesKMTests.ArticlesListViewModelTests' name='testFetchingDataFromApi' time='5.006'/>
+  </testsuite>
+  <testsuite name='NyTimesKMTests.ArticlesListViewTest' tests='2' failures='0'>
+    <testcase classname='NyTimesKMTests.ArticlesListViewTest' name='testExample' time='0.001'/>
+    <testcase classname='NyTimesKMTests.ArticlesListViewTest' name='testPerformanceExample' time='0.369'/>
+  </testsuite>
+</testsuites>
